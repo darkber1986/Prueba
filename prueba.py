@@ -1,3 +1,5 @@
 print("Hola mundo")
 edad = int(input("Dame tu edad: "))
-print("Tienes "+edad+" años")
+nombre = input("Dame tu nombre: ")
+print("Te llamas: "+nombre)
+print("y tienes "+edad+" años")
