@@ -5,3 +5,5 @@ print("Te llamas: "+nombre)
 print("y tienes "+edad+" años")
 print("Cualquier cosa")
 print("Cualquier otra cosa")
+
+print('DNS')
