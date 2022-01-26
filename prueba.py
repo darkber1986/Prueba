@@ -6,4 +6,7 @@ print("y tienes "+edad+" años")
 print("Cualquier cosa")
 print("Cualquier otra cosa")
 
-print('DNS')
+print('DNS \' " ')
+
+print("Algo más Robert's dog \" ")
+
